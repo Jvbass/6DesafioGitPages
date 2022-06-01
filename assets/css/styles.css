@@ -1,3 +1,12 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300;
+}
+
+h1, h2, h3, h4, h5 {
+  text-transform: uppercase;
+  font-weight: 500;
+}
 #Image-Section {
     background-image: url("../img/bgimage.jpg");
     background-repeat:repeat;
